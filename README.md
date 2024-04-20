@@ -19,9 +19,6 @@ O projeto do GT OIRAN consiste em um módulo de orquestração inteligente de fu
 Modelos para análise de alta disponibilidade, predição de falhas e orquestração de funções e recursos de rede serão implementados e integrados como software aberto ao Open RAN.
 </p>
 
-</td>
-
-
 # Equipe
 <div align="center">
 <table border="0" style="margin-left: auto; margin-right: auto;">
