@@ -29,13 +29,13 @@ Modelos para análise de alta disponibilidade, predição de falhas e orquestra�
 </tr>
 <tr>
 <td align="center" style="padding: 30px;"><img src="https://media.licdn.com/dms/image/C4D03AQEAjYChQq2RdA/profile-displayphoto-shrink_200_200/0/1620424985752?e=1718841600&v=beta&t=UqifA3OlawFMhomeqfxmZxuOZg5nRtglkh2Dgtty0f8" width="150" height="150" style="border-radius: 75px;"><br>Larissa da Costa<br>GPRT-UFPE<br><a href="https://www.linkedin.com">LinkedIn</a> | <a href="http://lattes.cnpq.br">Lattes</a></td>
-<td align="center" style="padding: 30px;"><img src="https://avatars.githubusercontent.com/u/72095425?size=150" width="150" height="150" style="border-radius: 75px;"><br>Ezequiel Assis<br>LASSE-UFPA<br><a href="https://www.linkedin.com">LinkedIn</a> | <a href="http://lattes.cnpq.br">Lattes</a></td>
+<td align="center" style="padding: 30px;"></td>
 <td align="center" style="padding: 30px;"><img src="https://avatars.githubusercontent.com/u/85590696?size=150" width="150" height="150" style="border-radius: 75px;"><br>Guilherme Melo<br>GPRT-UFPE<br><a href="https://www.linkedin.com">LinkedIn</a> | <a href="http://lattes.cnpq.br">Lattes</a></td>
 </tr>
 <tr>
 <td align="center" style="padding: 30px;"><img src="https://avatars.githubusercontent.com/u/96447435?size=150" width="150" height="150" style="border-radius: 75px;"><br>Klarissa Morais<br>GPRT-UFPE<br><a href="https://www.linkedin.com">LinkedIn</a> | <a href="http://lattes.cnpq.br">Lattes</a></td>
 <td align="center" style="padding: 30px;"><img src="https://avatars.githubusercontent.com/u/105547941?size=150" width="150" height="150" style="border-radius: 75px;"><br>Otavio Francisco<br>GPRT-UFPE<br><a href="https://www.linkedin.com">LinkedIn</a> | <a href="http://lattes.cnpq.br">Lattes</a></td>
-<td align="center" style="padding: 30px;"><img src="https://avatars.githubusercontent.com/u/112202209?size=150" width="150" height="150" style="border-radius: 75px;"><br>Rebeca Menezes<br>GPRT-UFPE<br><a href="https://www.linkedin.com">LinkedIn</a> | <a href="http://lattes.cnpq.br">Lattes</a></td>
+<td align="center" style="padding: 30px;"></td>
 </tr>
 </table>
 </div>
